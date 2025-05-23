@@ -13,13 +13,15 @@ I’ve demonstrated not only technical ability, but also self-awareness, plannin
 ---
 
 
-##  Career Counselling
+##  Career Counselling.
 
 ###  Evidence
 
 Captures my transition from general confusion to a clear focus on back-end development.
 
-(link-here)
+Here is the link to Career Counselling.
+
+(https://github.com/SamkelisiweKhanyile/Digital-Portfolio-S.SKhanyile/blob/main/Career%20Counselling.png)
 
 ### STAR Reflection
 **Situation:** At the beginning of my Work Readiness Training, I felt overwhelmed and uncertain about which specific path within IT I should follow. With several options available in programming, I wasn’t sure which suited my strengths and personality. 
