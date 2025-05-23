@@ -6,7 +6,7 @@
 
   **Introduction**
 
-Welcome to my Work Readiness Training Digital Portfolio, developed as part of the CPUT Work Readiness Programme. This portfolio highlights my personal and professional development through structured evidence and critical reflections using the STAR technique. Each section covers a major skill-building component such as career counselling, skills discovery, personality awareness, CV creation, and formal submission.
+Welcome to my Work Readiness Training Digital Portfolio. This portfolio highlights my personal and professional development through structured evidence and critical reflections using the STAR technique. Each section covers a major skill-building component such as career counselling, skills discovery, personality awareness, CV creation, and formal submission.
 The process taught me how to evaluate my strengths, identify growth areas, and align myself with the expectations of the IT industry.
 I’ve demonstrated not only technical ability, but also self-awareness, planning, and communication skills. This portfolio is a summary of who I am becoming as a professional: a dedicated, reflective, and industry-ready software developer. All content is based on authentic experiences, and the evidence provided is clear, organized, and explained.
 
@@ -16,8 +16,6 @@ I’ve demonstrated not only technical ability, but also self-awareness, plannin
 ##  Career Counselling.
 
 ###  Evidence
-
-Captures my transition from general confusion to a clear focus on back-end development.
 
 Here is the link to Career Counselling.
 
