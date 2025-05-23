@@ -79,7 +79,8 @@ Supports reflection on leadership, communication, and conflict management in tea
 A professionally designed CV tailored for IT roles and internship applications.
 Includes my qualifications, project work, tech stack, and personal branding.
 
-(link-to-my-cv)
+Here is the link to the file Create a CV.png in your repository:
+(https://github.com/SamkelisiweKhanyile/Digital-Portfolio-S.SKhanyile/blob/main/Create%20a%20CV.png)
 
 ### STAR Reflection
 **Situation:** My previous CV was outdated and lacked detail about my technical and project-based experience. 
