@@ -117,4 +117,4 @@ Includes my qualifications, project work, tech stack, and personal branding.
 
 **Phone Number:** 0622494254 
 
-**GitHub Portfolio:** (https://github.com/SamkelisiweKhanyile/digital-portfolio-skhanyile.git)
+**GitHub Portfolio:** (https://github.com/SamkelisiweKhanyile/Digital-Portfolio-S.SKhanyile.git))
