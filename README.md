@@ -39,7 +39,9 @@ Captures my transition from general confusion to a clear focus on back-end devel
 Self and peer-rated assessment showing my technical and soft skill proficiency.
 Highlights strengths in skills.
 
- (link-here)
+ Here is the link to Skills and Interests.
+ 
+(https://github.com/SamkelisiweKhanyile/Digital-Portfolio-S.SKhanyile/blob/main/Skills%20and%20Interests.png)
 
 ### STAR Reflection
 **Situation:** As part of the programme, I was asked to assess and map my current skills and identify gaps related to the job market.
