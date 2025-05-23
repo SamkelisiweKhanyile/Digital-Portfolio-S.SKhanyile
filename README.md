@@ -57,8 +57,9 @@ Highlights strengths in skills.
 ###  Evidence
 Supports reflection on leadership, communication, and conflict management in teams.
 
+Here is the link to Personality Assessment
 
-(link-here)
+(https://github.com/SamkelisiweKhanyile/Digital-Portfolio-S.SKhanyile/blob/main/Personality%20Assessment.png)
 
 ### STAR Reflection
 **Situation:** I wanted to better understand my communication and leadership style in preparation for professional teamwork.
@@ -79,7 +80,7 @@ Supports reflection on leadership, communication, and conflict management in tea
 A professionally designed CV tailored for IT roles and internship applications.
 Includes my qualifications, project work, tech stack, and personal branding.
 
-Here is the link to the file Create a CV.png in your repository:
+Here is the link to Create a CV 
 (https://github.com/SamkelisiweKhanyile/Digital-Portfolio-S.SKhanyile/blob/main/Create%20a%20CV.png)
 
 ### STAR Reflection
