@@ -6,10 +6,7 @@
 
   **Introduction**
 
-Welcome to my Work Readiness Training Digital Portfolio. This portfolio highlights my personal and professional development through structured evidence and critical reflections using the STAR technique. Each section covers a major skill-building component such as career counselling, skills discovery, personality awareness, CV creation, and formal submission.
-The process taught me how to evaluate my strengths, identify growth areas, and align myself with the expectations of the IT industry.
-I’ve demonstrated not only technical ability, but also self-awareness, planning, and communication skills. This portfolio is a summary of who I am becoming as a professional: a dedicated, reflective, and industry-ready software developer. All content is based on authentic experiences, and the evidence provided is clear, organized, and explained.
-
+Welcome to my Digital Portfolio for Work Readiness Training. This collection showcases my journey of personal and professional growth through structured evidence and insightful reflections, following the STAR technique. Each section highlights key areas of skill-building, including career guidance, skills exploration, self-awareness, CV development, and formal submissions. Through this process, I've learned to assess my strengths, recognize areas for improvement, and align myself with industry expectations in IT. I have demonstrated not only technical expertise but also strong self-awareness, strategic planning, and effective communication. This portfolio encapsulates my evolution into a dedicated, reflective, and industry-ready software developer, built on authentic experiences with well-organized and clearly explained evidence.
 ---
 
 
@@ -37,7 +34,8 @@ Here is the link to Career Counselling.
 
 ###  Evidence
 Self and peer-rated assessment showing my technical and soft skill proficiency.
-Highlights strengths in skills.
+
+Skills Matrix: Self-rated and peer-reviewed assessment highlighting technical and soft skills proficiency.
 
  Here is the link to Skills and Interests.
  
@@ -114,6 +112,28 @@ Here is the link to CV.
 **Action:**  I actively engaged in a structured counselling session hosted by CPUT. I completed interest assessments and used a skills-matching tool. I openly discussed my confusion between UI/UX, backend, and full-stack development. I also took notes during the session and followed up with independent research on job roles using LinkedIn and Career Junction. 
 
 **Result:** I discovered that I thrive in structured, logical tasks and enjoy working with code and data more than design. This confirmed that back-end development aligns best with my interests. The session helped me narrow my focus to Java development and APIs, and I’ve since subscribed to a Java certification newsletter and started applying to backend internships.
+
+---
+# Career Development & Future Goals  
+
+As a third-year ICT Applications Development student at **Cape Peninsula University of Technology**, I am dedicated to expanding my skills and preparing for a successful career in tech. My learning journey is centered around mastering both front-end and back-end technologies, with a strong emphasis on practical application and industry relevance.  
+
+## Current Focus Areas  
+
+- **Advanced Mobile Development**  
+  Developing scalable Android applications using **Jetpack Compose** and modern design patterns to ensure efficiency and usability.  
+
+- **Backend Engineering**  
+  Strengthening my expertise in **Java**, API development, and **Firebase integration** to create secure and high-performance solutions.  
+
+- **UI/UX Principles**  
+  Honing my skills in **Figma** to design intuitive, user-friendly interfaces that align with industry standards and enhance user experience.  
+
+## Internship & Industry Readiness  
+
+As I approach graduation, I am actively seeking opportunities to apply my knowledge in real-world settings. I am eager to contribute to dynamic teams through **internships in software development, mobile engineering, or database optimization**. These experiences will allow me to refine my skills, collaborate with professionals, and prepare for full-time engagement in the industry.  
+
+This journey is not just about learning—it's about growing into a **dedicated, adaptable, and industry-ready developer** with a passion for innovation and problem-solving.  
 
 ---
 
