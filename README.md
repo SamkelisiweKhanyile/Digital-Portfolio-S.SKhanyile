@@ -81,6 +81,7 @@ A professionally designed CV tailored for IT roles and internship applications.
 Includes my qualifications, project work, tech stack, and personal branding.
 
 Here is the link to Create a CV 
+
 (https://github.com/SamkelisiweKhanyile/Digital-Portfolio-S.SKhanyile/blob/main/Create%20a%20CV.png)
 
 ### STAR Reflection
@@ -97,7 +98,11 @@ Here is the link to Create a CV
 ##  CV Submission
 
 ###  Evidence
-- Screenshot of CV submitted to Blackboard
+I have done my CV and submitted it.
+
+Here is the link to CV.
+
+(https://github.com/SamkelisiweKhanyile/Digital-Portfolio-S.SKhanyile/blob/main/Samkelisiwe%20Khanyile%20CV.pdf)
 
 ### STAR Reflection
 **Situation:** t the beginning of my Work Readiness Training, I felt overwhelmed and uncertain about which specific path within IT I should follow. With several options available in programming, I wasn’t sure which suited my strengths and personality.  
